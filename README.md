@@ -1,0 +1,2 @@
+# latihan_fetch
+bismillah
